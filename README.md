@@ -12,7 +12,7 @@
 
 |  App     | Code | APK |
 | ---------------- |:-----:| :---: |
-| Dice Roller | [📄](./src/Unit2/DiceRoller.kt) | [📱](./apks/Unit1/dice-roller.apk) |
+| Dice Roller | [📄](./src/Unit2/DiceRoller.kt) | [📱](./apks/Unit2/dice-roller.apk) |
 | Lemonade    | [📄](./src/Unit2/Lemonade.kt)   | [📱](./apks/Unit2/lemonade.apk) |
 
 ### [Unit 3: Display lists and use Material Design](https://developer.android.com/courses/android-basics-compose/unit-3)
