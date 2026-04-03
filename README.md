@@ -2,17 +2,17 @@
 
 |  App     | Code | APK |
 | ---------------- |:-----:| :---: |
-| Birthday Card    | [📄](./src/Unit1/HappyBirthdayCard.kt) | 📱 |
+| Birthday Card    | [📄](./src/Unit1/HappyBirthdayCard.kt) | [📱](./apks/Unit1/happy-birthday-card.apk) |
 | Compose Article  | [📄](./src/Unit1/ComposeArticle.kt)    | [📱](./apks/Unit1/compose-article.apk) |
-| Task Manager     | [📄](./src/Unit1/TaskManager.kt)       | 📱 |
-| Compose Quadrant | [📄](./src/Unit1/ComposeQuadrant.kt)   | 📱 |
-| Business Card    | [📄](./src/Unit1/BusinessCard.kt)      | 📱 |
+| Task Manager     | [📄](./src/Unit1/TaskManager.kt)       | [📱](./apks/Unit1/task-manager.apk) |
+| Compose Quadrant | [📄](./src/Unit1/ComposeQuadrant.kt)   | [📱](./apks/Unit1/compose-quadrant.apk) |
+| Business Card    | [📄](./src/Unit1/BusinessCard.kt)      | [📱](./apks/Unit1/business-card.apk) |
 
 ### [Unit 2: Building app UI](https://developer.android.com/courses/android-basics-compose/unit-2)
 
 |  App     | Code | APK |
 | ---------------- |:-----:| :---: |
-| Dice Roller | [📄](./src/Unit2/DiceRoller.kt) | 📱 |
+| Dice Roller | [📄](./src/Unit2/DiceRoller.kt) | [📱](./apks/Unit1/dice-roller.apk) |
 | Lemonade    | [📄](./src/Unit2/Lemonade.kt)   | [📱](./apks/Unit2/lemonade.apk) |
 
 ### [Unit 3: Display lists and use Material Design](https://developer.android.com/courses/android-basics-compose/unit-3)
