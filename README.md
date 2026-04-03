@@ -8,11 +8,13 @@
 | Compose Quadrant | [📄](./src/Unit1/ComposeQuadrant.kt)   | 📱 |
 | Business Card    | [📄](./src/Unit1/BusinessCard.kt)      | 📱 |
 
-
-
-
-
 ### [Unit 2: Building app UI](https://developer.android.com/courses/android-basics-compose/unit-2)
+
+|  App     | Code | APK |
+| ---------------- |:-----:| :---: |
+| Dice Roller | [📄](./src/Unit2/DiceRoller.kt) | 📱 |
+| Lemonade    | [📄](./src/Unit2/Lemonade.kt)   | [📱](./apks/Unit2/lemonade.apk) |
+
 ### [Unit 3: Display lists and use Material Design](https://developer.android.com/courses/android-basics-compose/unit-3)
 ### [Unit 4: Navigation and app architecture](https://developer.android.com/courses/android-basics-compose/unit-4)
 ### [Unit 5: Connect to the internet](https://developer.android.com/courses/android-basics-compose/unit-5)
