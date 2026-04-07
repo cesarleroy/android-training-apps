@@ -15,6 +15,7 @@
 | Dice Roller    |  [📄](./src/Unit2/DiceRoller.kt)   |  [📱](./apks/Unit2/dice-roller.apk)   |
 | Lemonade       |   [📄](./src/Unit2/Lemonade.kt)    |    [📱](./apks/Unit2/lemonade.apk)    |
 | Tip Calculator | [📄](./src/Unit2/TipCalculator.kt) | [📱](./apks/Unit2/tip-calculator.apk) |
+| Art Space      |   [📄](./src/Unit2/ArtSpace.kt)    |   [📱](./apks/Unit2/art-space.apk)    |
 
 ### [Unit 3: Display lists and use Material Design](https://developer.android.com/courses/android-basics-compose/unit-3)
 
